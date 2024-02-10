@@ -1,2 +1,4 @@
 here
 there
+new strat1
+new strat1.1
